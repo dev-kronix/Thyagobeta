@@ -27,23 +27,12 @@ Local: "BR"
 
 ```yaml
 🟨 JavaScript:  [■■■■■■■■■□] (90%)
-🟦 CSS:         [■■■■■■■■□□] (80%)
-🟧 HTML:        [■■■■■■■■□□] (80%)
-🟪 TypeScript:  [■■■■■■■■□□] (80%)
-🟩 PHP:         [■■■■■■■□□□] (70%)
-🐍 Python:      [■■■■■■■□□□] (70%)
-🎨 SCSS:        [■■■■■■■□□□] (70%)
-```
-
----
-
-## Contato:
-
-```yaml
-📱 Canal WhatsApp: https://whatsapp.com/channel/0029VbChBpn0rGiVlDvyHi16
-💬 Grupo WhatsApp: https://chat.whatsapp.com/Ln8C3OC8avPIUXjenNv9UE
-📲 WhatsApp Direto: https://wa.me/message/6OZDYSD3F4RTL1
-🌐 Minha API: sara-apis.com.br
+🟦 CSS:         [■■■■■■■■■□] (90%)
+🟧 HTML:        [■■■■■■■■■□] (90%)
+🟪 TypeScript:  [■■■■■■□□□□] (60%)
+🟩 PHP:         [■■■■■■■□□□] (75%)
+🐍 Python:      [■■■■■■■■■□] (90%)
+🎨 SCSS:        [■■□□□□□□□□] (20%)
 ```
 
 ---
@@ -51,8 +40,36 @@ Local: "BR"
 ## Especialização:
 
 ```
-Frontend (Visual)
+✨ Automação em geral
+🎨 Frontend
+🤖 Bot WhatsApp, Discord, Telegram etc
+🔗 APIs
+🔍 Scrapers
 ```
+
+---
+
+## 📫 Contato:
+
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VbChBpn0rGiVlDvyHi16" target="_blank">
+    <img src="https://img.shields.io/badge/Canal%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal WhatsApp" />
+  </a>
+  <a href="https://chat.whatsapp.com/Ln8C3OC8avPIUXjenNv9UE" target="_blank">
+    <img src="https://img.shields.io/badge/Grupo%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Grupo WhatsApp" />
+  </a>
+  <a href="https://wa.me/message/6OZDYSD3F4RTL1" target="_blank">
+    <img src="https://img.shields.io/badge/Envie%20uma%20mensagem-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Direto" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="sara-apis.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Minha%20API-1f6feb?style=for-the-badge&logo=api&logoColor=white" alt="Sara API" />
+  </a>
+</p>
 
 ---
 
