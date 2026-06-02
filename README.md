@@ -1,51 +1,64 @@
-# Olá! 👋 Bem-vindo ao meu perfil
-
-Sou um desenvolvedor apaixonado por criar soluções inovadoras com **JavaScript**, **TypeScript** e tecnologias web. Especializado em desenvolver APIs robustas e bots inteligentes para WhatsApp.
-
----
-
-## � Estatísticas
-
-![Visitas](https://komarev.com/ghpvc/?username=Thyagobeta&color=blue&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/Thyagobeta?style=flat)
-![GitHub User's stars](https://img.shields.io/github/stars/Thyagobeta?style=flat)
+<p align="center">
+  <img src="https://comicvine.gamespot.com/a/uploads/original/11143/111434194/8842186-redditsave_com_mode_saitama-xq00gpncns591_adobeexpress.gif" width="100%" />
+</p>
 
 ---
 
-## �🛠️ Tecnologias Que Uso
+## Sobre mim:
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
----
-
-## 📚 Meus Projetos
-
-### 🤖 Sara API
-Uma API poderosa para integração com WhatsApp. Infraestrutura robusta e escalável.
-
-### 🔗 Knows APIs
-Conjunto de APIs versáteis para diferentes casos de uso. Desempenho e confiabilidade garantidos.
-
-### 💬 Sara Bot / Delta Bot
-Bots inteligentes para WhatsApp que automatizam processos e melhoram a experiência do usuário.
+```yaml
+Nome: "kronix"
+Idade: "18"
+Gênero: "Homem"
+Status: "Namoro, Futebol, minha api"
+Local: "BR"
+```
 
 ---
 
-## 🚀 Em Desenvolvimento
-
-Estou trabalhando em uma **API 100% gratuita** que vai revolucionar a forma como você constrói aplicações. Fique atento! 👀
-
----
-
-## 📫 Entre em Contato
-
-💬 **WhatsApp**: [Mande uma mensagem](https://wa.me/message/6OZDYSD3F4RTL1)
+## Pilha de tecnologia:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,css,html,php,python,scss" />
+</p>
 
 ---
 
-## ⚡ Curiosidade
+## Habilidades & Especialização:
 
-Adoro transformar ideias em código funcional e explorar novas tecnologias! 💻✨
+```yaml
+🟨 JavaScript:  [■■■■■■■■■□] (90%)
+🟦 CSS:         [■■■■■■■■□□] (80%)
+🟧 HTML:        [■■■■■■■■□□] (80%)
+🟪 TypeScript:  [■■■■■■■■□□] (80%)
+🟩 PHP:         [■■■■■■■□□□] (70%)
+🐍 Python:      [■■■■■■■□□□] (70%)
+🎨 SCSS:        [■■■■■■■□□□] (70%)
+```
+
+---
+
+## Contato:
+
+```yaml
+📱 Canal WhatsApp: https://whatsapp.com/channel/0029VbChBpn0rGiVlDvyHi16
+💬 Grupo WhatsApp: https://chat.whatsapp.com/Ln8C3OC8avPIUXjenNv9UE
+📲 WhatsApp Direto: https://wa.me/message/6OZDYSD3F4RTL1
+🌐 Minha API: sara-apis.com.br
+```
+
+---
+
+## Especialização:
+
+```
+Frontend (Visual)
+```
+
+---
+
+<!-- Visualizações e seguidores -->
+<p align="center">
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=dev-kronix&style=for-the-badge&label=Visualizações&color=gray" />
+  </a>
+</p>
